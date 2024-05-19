@@ -20,8 +20,8 @@ Visit `http://localhost:3000` to view the website.
 
 ## Temporarily Login
 
-- Username: jayce
-- Password: jason
+- Username: jason
+- Password: jayce
 
 ### Note
 
