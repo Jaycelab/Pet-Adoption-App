@@ -22,3 +22,9 @@ Visit `http://localhost:3000` to view the website.
 
 - Username: jayce
 - Password: jason
+
+### Note
+
+- Repository and demo for the Netlify version of this same app can be found here:
+- Repo: https://github.com/Jaycelab/Fur-City-Adoption.git
+- Demo: https://fur-city-adoption.netlify.app
