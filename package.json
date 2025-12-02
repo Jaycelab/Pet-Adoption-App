@@ -4,7 +4,7 @@
     "dev": "nodemon db.js"
   },
   "dependencies": {
-    "cloudinary": "^1.41.0",
+    "cloudinary": "^2.7.0",
     "cookie-parser": "^1.4.7",
     "dotenv": "^16.3.1",
     "ejs": "^3.1.9",
